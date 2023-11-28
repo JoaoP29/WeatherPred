@@ -6,7 +6,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # Chave da API da OpenWeatherMap
-api_key = "901d201251f4dafa154e4355d41ce7a9"
+api_key = "SUA CHAVE DE API AQUI"
 
 # Função para converter temperatura de Kelvin para Celsius
 def kelvin_para_celsius(temp_kelvin):
